@@ -1,3 +1,4 @@
 # Auto generated files folder
 /auto-gen-file
 /abc.txt
+# auto-gen-file/*.txt for specific files
